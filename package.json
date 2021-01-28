@@ -1,7 +1,7 @@
 {
   "name": "vue-ueditor-simple",
   "version": "1.0.8",
-  "description": "基于ueditor二次开发的vue版本editor",
+  "description": "ueditor封装的vue插件，基本满足我自己",
   "main": "lib/vue-ueditor-simple.umd.js",
   "repository": {
     "type": "git",
